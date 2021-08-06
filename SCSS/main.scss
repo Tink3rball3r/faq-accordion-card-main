@@ -1,0 +1,15 @@
+$Soft-violet: #af67e9;
+$Soft-blue: #6565e7;
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	height: 100%;
+	background: rgb(175, 103, 233);
+	background: linear-gradient(184deg, rgba(175, 103, 233, 1) 7%, rgba(101, 101, 231, 1) 100%);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
